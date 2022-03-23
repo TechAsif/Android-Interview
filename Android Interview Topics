@@ -3,3 +3,4 @@
 3. Dagger or hilt for dependency injection
 4. Rxjava for Reactive Programming is basically event-based asynchronous programming.
 5. Design by jetpack compose or xml
+6. Kotlin
