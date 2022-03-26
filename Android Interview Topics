@@ -1,6 +1,6 @@
 1. MVVM Architecture
 2. Retrofit for api call
-3. Dagger or hilt for dependency injection
+3. hilt(Best) or Dagger for dependency injection
 4. Rxjava for Reactive Programming is basically event-based asynchronous programming.
 5. Design by jetpack compose or xml
 6. Kotlin
